@@ -2,8 +2,8 @@
 
 ###
 
-<h4 align="left">🧑‍🎓 1st year student at Epitech Nice</h4> 
-<h4 align="left">💻 Getting into the world of cybersecurity</h4>
+<h4 align="left">🧑‍🎓 1st year student at Epitech Nice<br />
+💻 Getting into the world of cybersecurity</h4>
 
 ###
 
