@@ -36,7 +36,7 @@
 
 ###
 
-<img align="center" height="200" src="/assets/profile_chill.gif"/>
+<img align="right" height="200" src="/assets/profile_chill.gif"/>
 
 ###
 
