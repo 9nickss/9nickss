@@ -3,8 +3,8 @@
 ###
 
 <h4 align="left">
-🧑‍🎓 1st year student at Epitech Nice\
-💻 Getting into the world of cybersecurity\
+🧑‍🎓 1st year student at Epitech Nice \
+💻 Getting into the world of cybersecurity
 </h4>
 
 ###
