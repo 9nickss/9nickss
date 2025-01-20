@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yannick and I'm a low-level developper, from France</h2>
+<h2 align="left">Hi 👋! My name is Yannick and I'm a low-level developper from France</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBlbW01aWg1c2RwdHEzanh0eWJ2ajMxYnMwNXVoY3EyeHpseW9jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif"  />
+<img align="right" height="200" src="/assets/profile_chill.gif"/>
 
 ###
 
