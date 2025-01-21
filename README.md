@@ -4,7 +4,7 @@
 
 <h4 align="left">🧑‍🎓 1st year student at Epitech Nice<br />
 💻 Getting into the world of cybersecurity</h4>
-<h4 align="left">🤌 here's the link to my socials"<href="9nickss.github.io"></h4>
+<h4 align="left">🤌 here's the link to my <a href="https://9nickss.github.io">socials</a></h4>
 
 ###
 
