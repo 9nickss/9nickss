@@ -14,6 +14,10 @@
 
 ###
 
+<img align="center" height="450" src="/assets/profile_chill.gif"/>
+
+###
+
 <h1 align="left">What I work with:</h1>
 
 ###
@@ -32,10 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo"  />
   <img width="12" />
 </div>
-
-###
-
-<img align="right" height="200" src="/assets/profile_chill.gif"/>
 
 ###
 
