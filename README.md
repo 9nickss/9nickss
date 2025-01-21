@@ -14,7 +14,7 @@
 
 ###
 
-<img align="center" height="250" src="/assets/profile_chill.gif"/>
+<img align="center" height="150" src="/assets/profile_chill.gif"/>
 
 ###
 
