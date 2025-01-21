@@ -14,11 +14,11 @@
 
 ###
 
-<img align="center" height="150" src="/assets/profile_chill.gif"/>
+<h1 align="left">What I work with:</h1>
 
 ###
 
-<h1 align="left">What I work with:</h1>
+<img align="left" height="150" src="/assets/profile_chill.gif"/>
 
 ###
 
