@@ -23,7 +23,7 @@
 
 ###
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="9nickss.github.io">
     <img src="https://skillicons.dev/icons?i=c,bash,js,discordjs,git,github,py,emacs,html,css&theme=dark&perline=5" />
   </a>
 </p>
