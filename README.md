@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🧑‍🎓 1st year student at Epitech Nice<br />
+<h4 align="left">🧑‍🎓 2nd year student at Epitech Nice<br />
 💻 getting into the world of cybersecurity<br />
 🤌 here's the link to my <a href="https://9nickss.github.io">socials </a></h4>
 
