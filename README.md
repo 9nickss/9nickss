@@ -24,7 +24,7 @@
 ###
 <p align="center">
   <a href="http://9nickss.github.io">
-    <img src="https://skillicons.dev/icons?i=c,bash,js,discordjs,git,github,py,emacs,html,css&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,nodejs,git,github,py,rust,react,html,css&theme=dark&perline=5" />
   </a>
 </p>
 
